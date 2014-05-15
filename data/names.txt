@@ -1,0 +1,5 @@
+name=Nickleshwank; sex=male;          usage=hooligan
+name=Gollywog;     sex=male,female
+name=Feifei;       sex=female;        usage=cute
+name=Sally;        sex=female;        usage=cute
+name=Godilocks;    sex=female,shemale
